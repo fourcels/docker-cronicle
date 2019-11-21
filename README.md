@@ -5,7 +5,7 @@ Docker container for a Cronicle single-server master node
 
 # Supported tags
 
-* `0.8.32`, `latest` [Dockerfile](https://raw.githubusercontent.com/foucels/docker-cronicle/master/Dockerfile)
+* `0.8.32`, `latest` [Dockerfile](https://raw.githubusercontent.com/fourcels/docker-cronicle/master/Dockerfile)
 
 ## latest
 Latest version of Cronicle server based upon nodejs Docker image.
